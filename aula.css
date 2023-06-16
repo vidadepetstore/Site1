@@ -1,12 +1,19 @@
 .container {
-propridade : valor
+    color: rosybrown; 
 }
-h1{
-    propriedade : valor;
+
+.h5{
+    color: aqua;
 }
-.links{
-    propriedade : valor
+
+.h1{
+    color: rebeccapurple;
 }
-.links{
+
+.h2{
+    propriedade: valor;
+}
+
+.{           
     propriedade :valor
 }

@@ -1,19 +1,21 @@
-.container {
-    color: rosybrown; 
+.conteiner{
+    color: #f14bf7;
 }
 
-.h5{
-    color: aqua;
+h5{
+    color: #f71111;
 }
 
-.h1{
-    color: rebeccapurple;
+h1{
+    color: #ee15a6;
 }
 
-.h2{
-    propriedade: valor;
+h2{ 
+    color: #260080;
+    
 }
 
-.{           
-    propriedade :valor
+img{
+    height: 100px;
+    width: 100px;
 }
